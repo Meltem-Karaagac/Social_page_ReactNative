@@ -26,12 +26,12 @@ function Router() {
                 <Tab.Screen
                     name="FriendsPage"
                     component={Friends}
-                    options={{ title: 'Arkadaşlar' }}
+                    options={{ title: 'Second Page' }}
                 />
                 <Tab.Screen
                     name="MainComponentPage"
                     component={MainComponent}
-                    options={{ title: 'Ana Sayfa' }}
+                    options={{ title: 'Main Page' }}
                 />
             </Tab.Navigator>
         </NavigationContainer>
