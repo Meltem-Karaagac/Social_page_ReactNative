@@ -24,10 +24,9 @@
 ### Built With
 
 
-
 - HTML
 - CSS
-- [React](https://reactjs.org/)
+- [React]( https://reactjs.org/)
 - [React-Native](https://reactnative.dev/)
 
 
