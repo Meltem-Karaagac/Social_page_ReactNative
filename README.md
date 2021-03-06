@@ -16,8 +16,9 @@
 <!-- OVERVIEW -->
 
 ## Overview
-https://github.com/Meltem-Karaagac/Social_page_React_Native
-<!-- ![screenshot](overview/1.gif) -->
+
+  <img  src='./overview/social_page.gif' >
+
 
 
 ### Built With
