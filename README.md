@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Social_page</h1>
+<h1 align="center">Social page</h1>
 
 
 
